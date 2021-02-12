@@ -1,1 +1,1 @@
-# BLUEPRINT-X
+# Box Class
